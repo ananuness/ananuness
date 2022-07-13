@@ -1,7 +1,7 @@
-<h2 align="center">
+<h3 align="center">
   Welcome to my profile!
   <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
-</h2>
+</h3>
 
 <p style="position: relative; z-index: 1;"  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!;Currently+focusing+on+frontend" />

@@ -1,10 +1,6 @@
-<div>
-  <img style="position: absolute; top: 0; right: 0; z-index: 0; height: 15rem;" alt="cherry blossom" src="./assets/cherry-blossom-big.gif" />
-</div>
-
-<h3 style="display: flex; align-items: center; justify-content: center; position: relative; z-index: 1;">
+<h3 align="center">
   Welcome to my profile!
-  <img style="margin-left: 2px;" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
+  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
 </h3>
 
 <p style="position: relative; z-index: 1;"  align="center">
@@ -22,53 +18,47 @@
 
 #### &#129504; Knowledges
 
-<div style="position: relative;">
-  <details> 
-    <summary>&#128187; Programming and Markup languages</summary>
-    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
-    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/-Java-d9170d?style=flat-square&logo=java&logoColor=white">
+<details> 
+  <summary>&#128187; Programming and Markup languages</summary>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ffcd00?style=flat-square&logo=javascript&logoColor=black">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ff5324?style=flat-square&logo=html5&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-0766f5?style=flat-square&logo=css3&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/-Java-d9170d?style=flat-square&logo=java&logoColor=white">
     <br/>
-  </details>
+</details>
 
-  <details> 
-    <summary>&#129520; Frameworks, Platforms and libraries</summary>
-    <img alt="React" src="https://img.shields.io/badge/-React-00aff0?style=flat-square&logo=react&logoColor=white">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7930d9?style=flat-square&logo=bootstrap&logoColor=white">
-    <img alt="Reactstrap" src="https://img.shields.io/badge/-Reactstrap-5f5dd9?style=flat-square&logo=bootstrap&logoColor=white">
-    <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0055ff?style=flat-square&logo=mui&logoColor=white">
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-e667b0?style=flat-square&logo=styled-components&logoColor=white">
-    <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-fa2a2a?style=flat-square&logo=react-router&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
-    <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=express&logoColor=white">
-    <img alt="Spring" src="https://img.shields.io/badge/-Spring-51c97f?style=flat-square&logo=spring&logoColor=white">
-    <br/>
-  </details>
+<details> 
+  <summary>&#129520; Frameworks, Platforms and libraries</summary>
+  <img alt="React" src="https://img.shields.io/badge/-React-00aff0?style=flat-square&logo=react&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7930d9?style=flat-square&logo=bootstrap&logoColor=white">
+  <img alt="Reactstrap" src="https://img.shields.io/badge/-Reactstrap-5f5dd9?style=flat-square&logo=bootstrap&logoColor=white">
+  <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0055ff?style=flat-square&logo=mui&logoColor=white">
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled%20Components-e667b0?style=flat-square&logo=styled-components&logoColor=white">
+  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-fa2a2a?style=flat-square&logo=react-router&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-3a9e48?style=flat-square&logo=node.js&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=express&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-51c97f?style=flat-square&logo=spring&logoColor=white">
+</details>
 
-  <details> 
-    <summary>&#128452; Databases</summary>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4765c4?style=flat-square&logo=postgresql&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e08e14?style=flat-square&logo=mysql&logoColor=white">
-    <br/>
-  </details>
+<details> 
+  <summary>&#128452; Databases</summary>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4765c4?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-e08e14?style=flat-square&logo=mysql&logoColor=white">
+</details>
 
-  <details> 
-    <summary>&#128736; Software and Tools</summary>
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-057aff?style=flat-square&logo=visualstudiocode&logoColor=white">
-    <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-231e73?style=flat-square&logo=eclipse&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/-Git-fc5c38?style=flat-square&logo=git&logoColor=white">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-f7831e?style=flat-square&logo=stack-overflow&logoColor=white">
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-693bdb?style=flat-square&logo=insomnia&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/-Postman-fa732a?style=flat-square&logo=postman&logoColor=white">
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-15bd7c?style=flat-square&logo=elasticsearch&logoColor=white">
-    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0e17c2?style=flat-square&logo=jira&logoColor=white">
-    <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white">
-    <br/>
-  </details>
-</div>
-
+<details> 
+  <summary>&#128736; Software and Tools</summary>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS%20Code-057aff?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-231e73?style=flat-square&logo=eclipse&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/-Git-fc5c38?style=flat-square&logo=git&logoColor=white">
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-f7831e?style=flat-square&logo=stack-overflow&logoColor=white">
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-693bdb?style=flat-square&logo=insomnia&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-fa732a?style=flat-square&logo=postman&logoColor=white">
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-15bd7c?style=flat-square&logo=elasticsearch&logoColor=white">
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0e17c2?style=flat-square&logo=jira&logoColor=white">
+  <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white">
+</details>
 
 #### &#128202; GitHub Profile Stats
 
@@ -78,10 +68,4 @@
   <br />
   <b>Note:</b> it doesn't reflect experience or skill level.
   <br />
-</p>
-
-<p style="display: flex; align-items: center; justify-content: center;">
-  Made with
-  <img style="display: inline; margin: 0 -15px; height: 4rem;" alt="blow heart" src="./assets/blow-heart.gif" />
-   by Ana Nunes
 </p>

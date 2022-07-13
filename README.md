@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
   Welcome to my profile!
   <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
-</h3>
+</h2>
 
 <p style="position: relative; z-index: 1;"  align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!;Currently+focusing+on+frontend" />
@@ -11,12 +11,12 @@
   <a href="mailto:beatriznunez601@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-nunes/">
+  <a href="https://www.linkedin.com/in/ana-beatriz-nunes/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-#### &#129504; Knowledges
+## &#129504; Knowledges
 
 <details> 
   <summary>&#128187; Programming and Markup languages</summary>
@@ -60,7 +60,7 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white">
 </details>
 
-#### &#128202; GitHub Profile Stats
+## &#128202; GitHub Profile Stats
 
 <p align="center">
   <img alt="ananuness' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ananuness&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9" height="192px"/>

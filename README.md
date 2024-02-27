@@ -7,15 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!" />
 </p>
 
-<p style="position: relative; z-index: 1;"  align="center">
-  <a href="mailto:beatriznunez601@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-e81744?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ana-beatriz-nunes/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ## 👩‍💻 Technologies
 
 <div>

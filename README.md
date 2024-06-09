@@ -1,12 +1,3 @@
-<h1 align="center">
-  Welcome to my profile!
-  <img style="margin-left: 2px; margin-top: 5px" alt="togepi" src="./assets/togepi.gif" width="35" height="35" />
-</h1>
-
-<p style="position: relative; z-index: 1;"  align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=A471CF&lines=Junior+Fullstack+Web+Developer;Willing+to+learn+new+things!" />
-</p>
-
 ## 👩‍💻 Technologies
 
 <div>
@@ -37,13 +28,3 @@
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0e17c2?style=flat-square&logo=jira&logoColor=white">
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0559C9?style=flat-square&logo=trello&logoColor=white">
 </div>
-
-## &#128202; GitHub Profile Stats
-
-<p align="center">
-  <img alt="ananuness' Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ananuness&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9" height="192px"/>
-  <img alt="ananuness' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananuness&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9d5dd9&hide=Jupyter%20Notebook" height="192px"/>
-  <br />
-  <b>Note:</b> it doesn't reflect experience or skill level.
-  <br />
-</p>
